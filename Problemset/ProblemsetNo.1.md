@@ -3,8 +3,11 @@
 
 ### 1 . 简述Java技术体系的组成
  $1.$ Java Platform Standard Edition——**Java SE**
+ 
  $2.$ Java Platform Enterprise Edition——**Java EE**
+ 
  $3.$ Java Platform Micro Edition——**Java ME**
+ 
 ---
  ### 2 .Java的语言特征有哪些?简述这些特征的含义。
 
